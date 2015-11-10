@@ -26,7 +26,7 @@
     <!-- Navigation Drawer -->
     <fragment
         android:id="@+id/fragment_navigation_drawer"
-        android:name="com.example.apptemplate.adapter.NavDrawerAdapter"
+        android:name="com.example.apptemplate.activity.NavDrawerFragment"
         android:layout_width="@dimen/nav_drawer_width"
         android:layout_height="match_parent"
         android:layout_gravity="start"

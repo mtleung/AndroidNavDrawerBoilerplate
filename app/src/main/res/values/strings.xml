@@ -1,6 +1,8 @@
 <resources>
     <string name="app_name">AppTemplate</string>
-
+    <!-- Navigation Drawer options-->
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
     <string name="drawer_item_home">Home Screen</string>
     <string name="drawer_item_other">Other Screen</string>
 </resources>
